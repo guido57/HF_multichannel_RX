@@ -4,7 +4,7 @@
 
 ## Overview
 
-**HF Hydra** is a firmware-defined, multi-channel HF receiver built around just two readily available boards: an **AD9248 ADC board** ([AD9248.pdf datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9248.pdf)) and a **SmartZynq SP2** http://www.hellofpga.com/index.php/2024/01/21/smart-zynq-sp2/. 
+**HF Hydra** is a firmware-defined, multi-channel HF receiver built around just two readily available boards: an **AD9248 ADC board** ([AD9248.pdf datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9248.pdf)) and a **SmartZynq SP2** (http://www.hellofpga.com/index.php/2024/01/21/smart-zynq-sp2/). 
 
 Flash the firmware, connect an antenna, power it up, and it becomes a networked receiver that can watch several digital-mode frequencies at the same time.
 
