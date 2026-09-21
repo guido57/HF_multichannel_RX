@@ -1,0 +1,4 @@
+vivado_project/
+sim/xsim_project/
+*.jou
+*.log

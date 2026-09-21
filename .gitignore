@@ -1,0 +1,15 @@
+# Xilinx Vivado generated projects, logs, and simulation output
+Vivado/vivado_project/
+Vivado/sim/xsim_project/
+Vivado/*.jou
+Vivado/*.log
+Vivado/*.backup.jou
+Vivado/*.backup.log
+Vivado/xvlog.pb
+Vivado/xsim.dir/
+Vivado/.Xil/
+
+# Operating-system and editor files
+.DS_Store
+*.swp
+*.swo
