@@ -1,4 +1,12 @@
-vivado_project/
-sim/xsim_project/
+**/build/
+**/.Xil/
+**/.cache/
+**/.gen/
+**/.ip_user_files/
+**/.runs/
+**/*.xpr
+**/*.dcp
+**/*.wcfg
+**/*.pb
 *.jou
 *.log
